@@ -13,8 +13,19 @@
 ---
 
 ## Frameworks y herramientas
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=git&logoColor=white)
+
+---
+## Bases de datos 🔐
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLServer](https://img.shields.io/badge/-SQLServer-red?style=flat&logo=sqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+
 
