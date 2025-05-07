@@ -21,6 +21,7 @@
 ![VS core](https://img.shields.io/badge/-VScore-blue?style=flat&logo=vscore&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-green?style=flat&logo=AndroidStudio&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-grey?style=flat&logo=unity&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-yellow?style=flat&logo=postman&logoColor=white)
 
 ---
 
